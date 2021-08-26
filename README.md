@@ -15,10 +15,8 @@ Magnetic Resonance Imaging (MRI) is an important medical imaging technique to ob
 To run this project, it's required to install fastMRI github packages to perform some pre-processing.
 Refer to https://github.com/facebookresearch/fastMRI on "Dependencise and Installation" section about how to setup the environment. After installing the environment, put the Code_adver_train directory to ./FastMRI/fastMRI-master.
 
-
-
 ## Files Description
-![Final_report.pdf](./Final_Report.pdf) and ![Supporting_Information.pdf](./Supporting_Information.pdf) are the written report of the project. 
+![Report.pdf](./Final_Report.pdf) and ![Supporting_Information.pdf](./Supporting_Information.pdf) are the written report of the project. 
 
 FastMriDataModule.py is the data pre-processing code from FastMRI. 
 
@@ -56,4 +54,4 @@ where the group(csci5980) and user(liang664) directory need to be changed to you
 ![Example screenshot](./img/sample.png)
 
 ## Contact
-The project is completed by Haoxu Huang and Buyun Liang [liang664@umn.edu] (https://www.linkedin.com/in/buyun-liang/) - feel free to contact me if you have any questions!
+The project is completed by Haoxu Huang[huan1780@umn.edu] and Buyun Liang [liang664@umn.edu].
