@@ -16,7 +16,7 @@ To run this project, it's required to install fastMRI github packages to perform
 Refer to https://github.com/facebookresearch/fastMRI on "Dependencise and Installation" section about how to setup the environment. After installing the environment, put the Code_adver_train directory to ./FastMRI/fastMRI-master.
 
 ## Files Description
-![Report.pdf](./Final_Report.pdf) and ![Supporting_Information.pdf](./Supporting_Information.pdf) are the written report of the project. 
+![Report.pdf](./Report.pdf) and ![Supporting_Information.pdf](./Supporting_Information.pdf) are the written report of the project. 
 
 FastMriDataModule.py is the data pre-processing code from FastMRI. 
 
