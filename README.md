@@ -56,4 +56,4 @@ where the group(csci5980) and user(liang664) directory need to be changed to you
 ![Example screenshot](./img/sample.png)
 
 ## Contact
-The project is completed by Haoxu Huang [huan1780@umn.edu] and Buyun Liang [liang664@umn.edu]
+The project is completed by Haoxu Huang and Buyun Liang [liang664@umn.edu] (https://www.linkedin.com/in/buyun-liang/) - feel free to contact me if you have any questions!
