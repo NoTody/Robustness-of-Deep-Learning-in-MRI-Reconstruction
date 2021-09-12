@@ -51,7 +51,7 @@ export LD_LIBRARY_PATH=/home/csci5980/huan1780/.conda/envs/fastmri/lib:$LD_LIBRA
 where the group(csci5980) and user(huan1780) directory need to be changed to your own directory name.
 
 ## Sample Results
-[Example screenshot](./img/sample.png)
+![Example screenshot](./img/sample.png)
 
 ## Contact
 The project is completed by Haoxu Huang[huan1780@umn.edu] and Buyun Liang [liang664@umn.edu].
